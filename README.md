@@ -31,6 +31,8 @@ Once you've chosen your recipe, the app automatically generates a shopping list 
 
 Revolutionize the way you approach cooking with the Kitchen Master app. It's your trusty guide to creating delightful dishes that cater to your taste, schedule, and pantry inventory. Elevate your cooking game and embark on a journey of culinary exploration with this innovative app. Download now and uncover the art of stress-free cooking!
 
+# Vision anda Mission
+
 **Vision:**
 To transform cooking into an enriching and accessible journey that empowers individuals to explore, create, and connect through the art of culinary expression. We envision a world where everyone, regardless of their skill level, can experience the joy of cooking while embracing diverse flavors, cultures, and techniques.
 
