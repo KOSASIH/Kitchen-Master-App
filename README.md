@@ -2,6 +2,8 @@
 
 The Kitchen Master app is a culinary companion that utilizes advanced food recognition technology to identify ingredients in your kitchen. Once ingredients are recognized, the app generates personalized recipes, helping you create delicious meals effortlessly. Say goodbye to meal planning stress and hello to a new level of culinary creativity!
 
+# Introduction
+
 Introducing the Kitchen Master App – your ultimate culinary companion that transforms your kitchen into a realm of creativity and convenience. Imagine a tool that effortlessly recognizes the ingredients you have on hand and then conjures up delectable recipes tailored to your preferences. Look no further, as the Kitchen Master app brings this vision to life.
 
 **Features:**
